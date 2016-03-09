@@ -7,11 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Bread and Git Website Demo</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+		<h1>Bread Products</h1>
+		<p>List of bread products</p>
     </body>
 </html>
