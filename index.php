@@ -12,5 +12,8 @@ and open the template in the editor.
     <body>
 		<h1>Bread Products</h1>
 		<p>List of bread products</p>
+                
+                <span>Ingredients list</span>
+                <p>List</p>
     </body>
 </html>
